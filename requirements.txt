@@ -1,2 +1,2 @@
-chainlit==1.1.402
+chainlit==1.1.404
 openai==1.40.8
